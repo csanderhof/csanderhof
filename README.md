@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csanderhof
-- 👀 I’m interested in prograqmming
+- 👀 I’m interested in programming
 - 🌱 I’m currently teaching in programming and basic networking
-- 📫 you can reach me on my blot www.itmadeeasy.nu
+- 📫 you can reach me on my blog www.itmadeeasy.nu
 
 <!---
 csanderhof/csanderhof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
